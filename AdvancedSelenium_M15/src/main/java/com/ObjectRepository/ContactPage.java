@@ -19,10 +19,6 @@ public class ContactPage {
 		// TODO Auto-generated constructor stub
 	}
 
-	public ContactPage(WebDriver driver) {
-		// TODO Auto-generated constructor stub
-	}
-
 	public WebElement getContactsPageButton() {
         return contactsPageButton;
     }
